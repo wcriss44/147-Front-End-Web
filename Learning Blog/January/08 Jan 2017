@@ -1,0 +1,17 @@
+A fresh start
+
+So today is the first of what I fully expect to be 147 exciting days! My goal for today was to set up a GitHub repository, get any sort of a website up using HTML5 and CSS3, and get that sucker hosted!
+
+I was really afraid that Github would be the hardest part of everything. I couldn't of been more wrong. Github seems to be fairly straight forward to use. While I know that I am likely not following best practices, the only way to learn is to do. The reality is that getting the website hosted was the hardest part. I bought a domain on the cheap, thanks to GitHub's education package. After several hours I managed to get it hosted on Microsoft Azure.
+
+Just using Microsoft Azure was overly complicated. They don't even call websites websites anymore. Everything on Azure is a web app. I do mean everything. After quite a bit of documentation reading I finally figured out how to get a website going on Azure. The next step was to get my domain name to point to the site I was hosting on Azure. Back to the documentation I went!
+
+Once everything was resolved, pun intended, I then had to figure out how to get my GitHub files to my Azure server. I was getting a bit tired of documentation for the day, mainly because I still have countless hours of JS documentation to read. So, I tried to find a shortcut.
+
+I ended up setting up FTP access, connecting through MacOS FTP, and tried to drop my cloned files from GitHub. This just did not work at all. After more time in the documentation I realized that I can connect my GitHub account. It was a fairly easy process from here. It even removed the old HTML files provided by Microsoft!
+
+I know that things will be much more complicated in the future. I can only imagine what it will be like when I clean up my repository by adding directories to make navigating these projects easier.
+
+All in all, it was a fun day with lots of learning. My favorite part of the day had to of been GitHub. It was really easy and quite fun cloning my branch, adding my files from Sublime, and doing a pull request.
+
+I am really excited for tomorrow! See yah then!
