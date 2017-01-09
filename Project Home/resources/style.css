@@ -1,0 +1,27 @@
+#title-row{
+    background:#77BEB3;
+}
+.logo{
+    max-width:60px;
+    max-height:60px;
+}
+#social-media{
+    margin-top:22px;
+}
+
+.soc-media-btn{
+    max-height:18px;
+    max-width: 18px;
+    border-radius: 4px;
+}
+
+/* soc-media-div{
+    padding-right:1;
+}
+*/
+.img-hover{
+    transform: scale(1.2);
+}
+.section-spacer{
+    margin-top:50px;
+}
