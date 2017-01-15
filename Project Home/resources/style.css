@@ -1,5 +1,12 @@
 #title-row{
-    background:#77BEB3;
+    background:#14141f;
+}
+.logo-header{
+    color:#fff;
+    font-size: 90%;
+}
+.logo-contrast{
+    color:#ff6100;
 }
 .logo{
     max-width:60px;
@@ -24,4 +31,20 @@
 }
 .section-spacer{
     margin-top:50px;
+}
+.footer-container{
+    color:#fff;
+    background:#14141f;
+    text-align: center;
+    font-size:70%;
+}
+.img-margin{
+    margin-top:5px;
+}
+.contact-container{
+    text-align:center;
+    font-size:85%;
+}
+#github-ph{
+    margin-top:30px;
 }
